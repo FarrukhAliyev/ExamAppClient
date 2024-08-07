@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\common\\notification.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\common\\notification.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\common\\http-client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\common\\http-client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\ders-client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\ders-client.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\components\\ders\\popup\\popup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\ders\\popup\\popup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\components\\imtahan\\imtahan.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\imtahan\\imtahan.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-17T17:49:35.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:49:30.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.scss",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\styles.scss",
+              "RelativeDocumentMoniker": "src\\styles.scss",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\styles.scss",
+              "RelativeToolTip": "src\\styles.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-17T17:49:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "notification.service.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\common\\notification.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\common\\notification.service.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\common\\notification.service.ts",
+              "RelativeToolTip": "src\\app\\services\\common\\notification.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:49:04.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "http-client.service.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\common\\http-client.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\common\\http-client.service.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\common\\http-client.service.ts",
+              "RelativeToolTip": "src\\app\\services\\common\\http-client.service.ts",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:48:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ders-client.service.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\ders-client.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\ders-client.service.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\services\\ders-client.service.ts",
+              "RelativeToolTip": "src\\app\\services\\ders-client.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:48:12.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "popup.component.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\components\\ders\\popup\\popup.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\ders\\popup\\popup.component.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\components\\ders\\popup\\popup.component.ts",
+              "RelativeToolTip": "src\\app\\components\\ders\\popup\\popup.component.ts",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswBAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:47:57.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "imtahan.component.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\components\\imtahan\\imtahan.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\imtahan\\imtahan.component.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\components\\imtahan\\imtahan.component.ts*",
+              "RelativeToolTip": "src\\app\\components\\imtahan\\imtahan.component.ts*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:47:01.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:46:56.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "server.ts",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\server.ts",
+              "RelativeDocumentMoniker": "server.ts",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ExamApp\\ExamAppClient\\server.ts",
+              "RelativeToolTip": "server.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T17:46:20.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
